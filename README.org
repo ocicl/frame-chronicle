@@ -1,0 +1,9 @@
+* frame-chronicle
+
+A small library to help debug game code by recording data on specific frame numbers for later querying.
+
+|---------+------------------------------------------------------------|
+| source  | git:https://github.com/Jach/frame-chronicle.git           |
+| commit  | 0000000                                                    |
+| systems | frame-chronicle                                           |
+|---------+------------------------------------------------------------|
