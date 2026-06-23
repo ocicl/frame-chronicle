@@ -7,3 +7,4 @@ A small library to help debug game code by recording data on specific frame numb
 | commit  | 93d6808                                                    |
 | systems | frame-chronicle                                           |
 |---------+------------------------------------------------------------|
+ 
